@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "learn-officiel-site",
+    "slug": "learn-officiel-site",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "learn-officiel-site"
+}
